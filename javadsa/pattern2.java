@@ -18,7 +18,5 @@ public class pattern2 {
 
 
 
-
-
     }
 }
