@@ -10,7 +10,13 @@ public class Str1{
 
 
 
+
+
+
         String A = sc.next();
+
+
+        
         String B = sc.next();
 
         int rel1 = A.length() + B.length();
