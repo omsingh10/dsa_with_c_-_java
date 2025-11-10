@@ -4,7 +4,7 @@ package javaquestions;
 public class q1 {
     public static void main(String[] args) {
         int[] arr = {8, 4, 2, 1}; // 8421 weights
-        int num = 10; // example number
+        int num = 5; // example number
 
         System.out.print("Binary of " + num + " = ");
 
