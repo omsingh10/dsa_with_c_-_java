@@ -17,7 +17,7 @@ class Demo{
         Dog dog1 = new Dog("Buddy", 3);
         Dog dog2 = new Dog("Max", 5);
 
-        System.out.println("Dog 1 humsn: " + dog1.name + ", Age: " + dog1.age )  ;
+        System.out.println("Dog 1 humsnds: " + dog1.name + ", Age: " + dog1.age )  ;
         System.out.println("Dog 2: " + dog2.name + ", Age: " + dog2.age ) ;
 
     }
