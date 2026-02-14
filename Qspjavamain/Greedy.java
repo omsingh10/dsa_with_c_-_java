@@ -1,4 +1,4 @@
-package Qspjavamain;
+
 
 public class Greedy {
 
