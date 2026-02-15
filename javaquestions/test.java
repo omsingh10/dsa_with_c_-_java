@@ -1,5 +1,7 @@
 package javaquestions;
 
+import java.util.Objects;
+
 public class test {
     public static void main(String[] args) {
 
@@ -7,7 +9,7 @@ public class test {
          Integer n = 127 ;
         Integer m = null ;
 
-        System.out.println(n == m);
+        System.out.println(Objects.equals(n, m));
 
        }
 
@@ -16,7 +18,7 @@ public class test {
 }
 
         {
-            int n = (Integer) null;
+      int n = 10;
             int y = -129;
 
             System.out.println(n == y);
