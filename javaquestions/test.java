@@ -16,7 +16,7 @@ public class test {
 }
 
         {
-            int n = null;
+            int n = (Integer) null;
             int y = -129;
 
             System.out.println(n == y);
