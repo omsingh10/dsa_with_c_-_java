@@ -4,7 +4,7 @@ class pt1{
     public static void main(String[] args) {
 
         Square(5);
-        Square(6);
+        Square(88);
         
 
      
